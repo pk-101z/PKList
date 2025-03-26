@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <title>LIST</title>
+  <body>
+    <h1>My Top Anime List</h1>
+    <h2>Romance Section</h2>
+    <h3>-Bold Means its a Movie</h3>
+    <ul>
+      <li>Horimiya</li>
+      <li>My Dress Up Darling</li>
+      <li><strong>Silent voice</strong></li>
+      <li><strong>Your Name</strong></li>
+      <li>Tomo-Chan is a Girl</li>
+      <li>Dandadan</li>
+      <li>Re-Life</li>
+      <li>Alya Sometimes Hides Her Feelings in Russian</li>
+      <li>Too many losing heroines 
+        <br />(could be removed from list depending on
+        next season)</li>
+      <li>Summer Time Rendering</li>
+      <li>Violet Evergarden (specials and movies are a must watch)</li>
+      <li></li>
+    </ul>
+  </body>
+</html>
